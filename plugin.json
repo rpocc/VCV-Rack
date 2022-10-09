@@ -1,0 +1,28 @@
+{
+  "slug": "Shtatnov",
+  "name": "Shtatnov",
+  "version": "2.0.0",
+  "license": "CC-BY-4.0",
+  "brand": "Shtatnov",
+  "author": "Dmitry Shtatnov",
+  "authorEmail": "sssrlabs@sssrlabs.com",
+  "authorUrl": "https://sssrlabs.com/",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "AFD",
+      "name": "Audio Frequency Divider",
+      "description": "Quad Audio Frequency Divider generating square waveform with half the frequency of the input",
+      "tags": [
+        "utility",
+        "filter",
+        "waveshaper",
+        "polyphonic"
+      ]
+    }
+  ]
+}
